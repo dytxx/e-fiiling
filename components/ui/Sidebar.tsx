@@ -16,7 +16,7 @@ export default function Sidebar() {
     return (
         <div className="flex flex-col w-64 bg-gray-800 text-white min-h-screen p-4 shadow-lg">
             <div className="text-xl font-bold mb-8 border-b border-gray-700 pb-4">
-                E-Filling Dosen
+                E-Filling Dosen Widyatama
             </div>
             <nav className="flex flex-col space-y-2">
                 {navItems.map((item) => (
